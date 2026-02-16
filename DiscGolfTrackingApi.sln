@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscGolfTrackingApi", "DiscGolfTrackingApi\DiscGolfTrackingApi.csproj", "{C38E682C-C00F-42FD-AD35-1B2E67D0EE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscGolfTrackingModels", "DiscGolfTrackingModels\DiscGolfTrackingModels.csproj", "{D6D37488-1A5F-4A80-A83E-83921B06BEBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscGolfTrackingRepository", "DiscGolfTrackingRepository\DiscGolfTrackingRepository.csproj", "{BC689D30-7624-45E0-AF94-9435CDE4D7D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscGolfTrackingService", "DiscGolfTrackingService\DiscGolfTrackingService.csproj", "{DEBDAE65-BE91-4BD5-9E61-CE36B6D2D686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38E682C-C00F-42FD-AD35-1B2E67D0EE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C38E682C-C00F-42FD-AD35-1B2E67D0EE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C38E682C-C00F-42FD-AD35-1B2E67D0EE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C38E682C-C00F-42FD-AD35-1B2E67D0EE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D37488-1A5F-4A80-A83E-83921B06BEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D37488-1A5F-4A80-A83E-83921B06BEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D37488-1A5F-4A80-A83E-83921B06BEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D37488-1A5F-4A80-A83E-83921B06BEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC689D30-7624-45E0-AF94-9435CDE4D7D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC689D30-7624-45E0-AF94-9435CDE4D7D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC689D30-7624-45E0-AF94-9435CDE4D7D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC689D30-7624-45E0-AF94-9435CDE4D7D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBDAE65-BE91-4BD5-9E61-CE36B6D2D686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBDAE65-BE91-4BD5-9E61-CE36B6D2D686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBDAE65-BE91-4BD5-9E61-CE36B6D2D686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBDAE65-BE91-4BD5-9E61-CE36B6D2D686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
